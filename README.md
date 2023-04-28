@@ -4,7 +4,9 @@ Build Ionic Apps Using latest technology
 
 
 1.Build Your First Ionic App: Photo Gallery (Ionic Angular and Capacitor)
+
     How to Run
+    
     Note: It's highly recommended to follow along with the tutorial guide, which goes into more depth, but this is the fastest way to run the app.
 
     Install Ionic if needed: npm install -g @ionic/cli.
